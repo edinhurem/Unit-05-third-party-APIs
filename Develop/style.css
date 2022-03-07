@@ -1,0 +1,87 @@
+.ash{
+
+  background: aqua;
+
+}
+
+
+
+.blue{
+
+  background:rebeccapurple;
+
+}
+
+
+
+.green{
+
+  background:greenyellow;
+
+}
+
+
+
+.text_input{
+
+  background:red;
+
+}
+
+
+
+textarea{
+
+  width:80%
+
+}
+
+
+
+.border{
+
+  border-top:15px black solid;
+
+  border-bottom:15px black solid;
+
+  display:inline-block;
+
+  background:black;
+
+  color:white;
+
+  width:40px;
+
+  height:54px;
+
+  line-height: 50px;
+
+  position: absolute;
+
+  text-align: center;
+
+  align-items: center;
+
+  left:80px;
+
+}
+
+.jumbotron{
+
+  text-align: center;
+
+}
+
+.adjust{
+
+  display:inline-block;
+
+  width:60px;
+
+  height:54px;
+
+  line-height: 50px;
+
+  position: absolute;
+
+}
